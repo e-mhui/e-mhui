@@ -1,6 +1,9 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm emhui</h1>
+<h3 align="center">A passionate backend developer from China</h3>
 
+- 📫 How to reach me **emhui.box@gmail.com**
 
+<!--
 **e-mhui/e-mhui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,5 +16,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=e-mhui&show_icons=true&locale=en" alt="e-mhui" /></p>
