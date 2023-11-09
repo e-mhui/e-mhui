@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm emhui</h1>
-<h3 align="center">A passionate backend developer from China</h3>
+<h3 align="center">A passionate backend developer from China's Shenzhen</h3>
 
 - 📫 How to reach me **emhui.box@gmail.com**
 
